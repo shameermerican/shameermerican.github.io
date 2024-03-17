@@ -127,37 +127,19 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "h4wp9u4ayw",
+    "mbrsiteDomain": "zgdnqqeoxj",
     "imageResize": true,
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#ffffff",
-      "colorButton": "#ffffff",
-      "rejectColor": "#ffffff",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacityOverlay": "0",
-      "bgOpacity": "100",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "GOT IT",
-      "rejectText": "REJECT"
-    },
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
     "uniqCompNum": 8,
     "versionPublish": "5.9.6",
     "publishChangesOnly": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
