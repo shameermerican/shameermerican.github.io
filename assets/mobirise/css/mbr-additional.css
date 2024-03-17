@@ -20,12 +20,12 @@ body {
   font-family: Inter Tight;
 }
 .display-1 {
-  font-family: 'Nabla', display;
-  font-size: 6.6rem;
+  font-family: 'Candal', sans-serif;
+  font-size: 5.2rem;
   line-height: 1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 8.25rem;
+  font-size: 6.5rem;
 }
 .display-2 {
   font-family: 'Noto Sans Gurmukhi', sans-serif;
@@ -66,14 +66,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 5.28rem;
+    font-size: 4.16rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 4.62rem;
-    font-size: calc( 2.96rem + (6.6 - 2.96) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (2.96rem + (6.6 - 2.96) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.64rem;
+    font-size: calc( 2.4699999999999998rem + (5.2 - 2.4699999999999998) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (2.4699999999999998rem + (5.2 - 2.4699999999999998) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 3.2rem;
@@ -1327,7 +1327,7 @@ a {
   background: #000000;
 }
 .cid-tHeG8PGECK .mbr-section-title {
-  color: #ffa600;
+  color: #fff900;
 }
 .cid-tHeG8PGECK .mbr-text,
 .cid-tHeG8PGECK .mbr-section-btn {
@@ -1903,7 +1903,7 @@ a {
 }
 .cid-u7fWR35BRI .mbr-text,
 .cid-u7fWR35BRI .mbr-section-btn {
-  color: #ffffff;
+  color: #fff900;
   text-align: center;
 }
 .cid-u7fYKX0mz0 {
@@ -1965,7 +1965,7 @@ a {
 }
 .cid-u7fYKX0mz0 .mbr-text,
 .cid-u7fYKX0mz0 .mbr-section-btn {
-  color: #ffffff;
+  color: #fff900;
   text-align: center;
 }
 .cid-u7fZZJ7tsX {
@@ -2024,7 +2024,7 @@ a {
 }
 .cid-u7fZZJ7tsX .mbr-text,
 .cid-u7fZZJ7tsX .mbr-section-btn {
-  color: #ffffff;
+  color: #fff900;
   text-align: center;
 }
 .cid-u7g1bdLXd3 {
@@ -2086,7 +2086,7 @@ a {
 }
 .cid-u7g1bdLXd3 .mbr-text,
 .cid-u7g1bdLXd3 .mbr-section-btn {
-  color: #ffffff;
+  color: #fff900;
   text-align: center;
 }
 .cid-u7g3t4Xdw4 {
@@ -2146,6 +2146,7 @@ a {
 .cid-u7g3t4Xdw4 .mbr-text,
 .cid-u7g3t4Xdw4 .mbr-section-btn {
   text-align: center;
+  color: #fff900;
 }
 .cid-u7g3s8afTI {
   padding-top: 0rem;
@@ -2207,6 +2208,7 @@ a {
 .cid-u7g3s8afTI .mbr-text,
 .cid-u7g3s8afTI .mbr-section-btn {
   text-align: center;
+  color: #fff900;
 }
 .cid-tIsl0U2P9c {
   padding-top: 6rem;
