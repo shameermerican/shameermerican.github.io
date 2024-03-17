@@ -2001,6 +2001,9 @@
             },
             ".mbr-description": {
               "text-align": "center"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "center"
             }
           },
           "_name": "video05",
